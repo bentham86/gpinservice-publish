@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Inspira.GeneracionPin.Servicio.GeneracionPinWS" CodeBehind="GeneracionPinWS.svc.cs" %>
